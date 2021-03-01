@@ -1,0 +1,3 @@
+Working with the .gitIgnore file - THIS file should be included!
+
+This file continues to be tracked even though the .gitIgnore says it shouldn't be!
