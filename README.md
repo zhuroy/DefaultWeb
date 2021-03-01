@@ -1,5 +1,5 @@
 # DefaultWeb _ Working Directory
-# Roy Zhu is learning please ignore what I have changed
+# Roy Zhu is testing gifftool
 This repository is the default web project that I use in some training courses. 
 If you are taking one of my courses, this is the right place to be for the default web project. 
 
